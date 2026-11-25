@@ -1,3 +1,4 @@
-# Earl's Sandwich Deli demo website
+# Votive Tattoos, Long Beach demo website
 
-One page demo site built by Habtech for Earl's Sandwich Deli Co, Paisley. Single index.html, no build step.
+Demo one page website built by Habtech for Votive Tattoos, Long Beach.
+Static site, open index.html. Demo preview only, not the live website.
